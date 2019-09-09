@@ -1,0 +1,44 @@
+CREATE TABLE CUSTOMER(
+	idCust int(10) not null,
+	username varchar(20),
+	password varchar(20),
+	NamaCust varchar(100),
+	JenisKelamin varchar(10),
+	Alamat string,
+	constrain idCust AutoIncreament Primary key
+);
+
+CREATE TABLE SPAREPART(
+id_sparepart int(10) not null,
+nama_sparepart VARCHAR(30),
+tipe_hp VARCHAR(30) ,
+module_hp VARCHAR(30),
+harga_sparepart double
+constrain id_sparepart AutoIncreament Primary key
+);
+
+CREATE TABLE HANDPHONE ( 
+tipe_hp varchar(10) NOT NULL,
+merek_hp varchar(10) NOT NULL,
+harga_hp NUMBER(10) NOT NULL,
+deskripsi varchar(20) NOT NULL,
+PRIMERY KEY (tipe_data)
+);
+
+CREATE TABLE REPARASI(
+idCust int (10) Foreign key references Customer(idCust),
+id_sparepart int (10) Foreign key references Sparepart(id_sparepart)
+);
+
+CREATE TABLE MEMBELI(
+	idCust int(10) Foreign key references Customer(idCust),
+	tipeHP varchar(10) foreign key references Handphone(tipeHP)
+);
+
+insert into Customer(username, password, NamaCust, JenisKelamin, Alamat) values ('pastono123', 'cangcuthijau', 'Supartono', 'Laki-laki', 'Jl. Mundurkedepan 3');
+insert into membeli values(1, Zenphone2);
+insert into HANDPHONE values('android 7.10','samsung s9',7000.000,'warna merah,size:10*15,camera:10.MP');
+
+select * from Sparepart;
+select * from Customer;
+select * from handphone;
