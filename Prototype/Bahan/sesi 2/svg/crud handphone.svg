@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="2160" viewBox="0 0 1920 2160">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #6e6e73;
+        fill-rule: evenodd;
+      }
+
+      .cls-11, .cls-12, .cls-2, .cls-4 {
+        font-size: 106px;
+        text-anchor: middle;
+      }
+
+      .cls-11, .cls-2, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-4 {
+        font-family: Vision;
+      }
+
+      .cls-3 {
+        fill: #a2a2a2;
+      }
+
+      .cls-5, .cls-6, .cls-7, .cls-8 {
+        stroke: #a2a2a2;
+        stroke-width: 3px;
+      }
+
+      .cls-12, .cls-6, .cls-9 {
+        fill: #87dc87;
+      }
+
+      .cls-7 {
+        fill: #dc8787;
+      }
+
+      .cls-8 {
+        fill: blue;
+      }
+
+      .cls-10 {
+        fill: #62be62;
+      }
+
+      .cls-11, .cls-12 {
+        font-family: Nickainley;
+      }
+
+      .cls-13 {
+        fill: #5e5e5e;
+      }
+
+      .cls-14 {
+        fill: #fefefe;
+      }
+    </style>
+  </defs>
+  <g id="crud_handphone" data-name="crud handphone">
+    <path class="cls-1" d="M22182,2297h602V4611h-602V2297Zm119,245a61,61,0,1,1-61,61A60.993,60.993,0,0,1,22301,2542Z" transform="translate(-22215 -2326)"/>
+    <text id="Main_Navigation" data-name="Main Navigation" class="cls-2" transform="translate(149.784 392.513) scale(0.365)">Main Navigation</text>
+    <rect class="cls-3" x="-49" y="641" width="617" height="74"/>
+    <image id="index" x="506" y="658" width="26" height="46" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAuCAYAAAA2oQl1AAACz0lEQVRYhbWWMWgaURzGv/c8l4sgmBIKLuZw0KUEipQORQ/t0K3JUnCSkDFQO3bpmLUGujXQ2aFxCCZDPIRkCCFLydB0aNRNrxSHcFZMaizv8Mp7weh59/LBH727hz+/33l3kvX1dYzzYXNz8xOALh4gRNd19qlf6vV6Znl5uQVAl43Z398HLRaLTxgEQKzZbMYopQalFDKHhS4sLJzXarWXhBDWJnZ5eakFg8GDYDAIWcNCdnZ2nIa5jY2NzwwGoKVpWgNAVoa6arUK2uv1MJ7a9vb2WwZhsEajoRFCDEII/I7dyDCMu19Ay2azhtMskUj8APDKT6NKpSKo4yNV4111eCiNuEcdHykap6nj41ujrc6yLMyYWqlUesdrBDBVw6QQVstlVlZXVytOs2Qy6Vrj7u6uK3V8PGl0q44fzxrnUcdnZW1trTIajVxpZOrozc0NPMy3crn8xml2cXGRGAwGxmAwwKSxG5VKJS+NnLwuFosfZ50zdo68quMzU6MfdfzM1AgJ6vjcq1GWOj4TNdoXbL1elwliiem63hy/b4VCIevs7CylLC0tyQb94qGWZbU6nc5jRTJEHT9W7ITD4fPj4+MXAK6UdrstCxLP5XKH4x8De+C1DMPIXl9fX7FtJRwOy4A8SqVSAuT09PTZ7e3tb2eBoqqqXwjTtedAeF38Ir/qpuoSQD7UzdQlgDyqc6VLAHlQ51qXAFKUuS6lWCaTca1LAC0uLrqFhNLp9Nd5dAkg0zTdrPOkSwC5UOdZlwAaDof3Hszn8+yl7EBUVf1+dHSUBjAXxAZNOaaZpvn/BhkIBBrsdg/gz7wQGxQIBCbtZ7oMXtfJycnzXq/nCYJJ6mTqEkB3tqXqEkCcOum6BFC/30ehUMBD6BJAABKmaR44O2TqEkDxePxnJBLpdrvdCKW0IVOXAALwNxqNPo1Go3tbW1vvTdPk/8XICYB/R6NiEF/1d8gAAAAASUVORK5CYII="/>
+    <text id="Handphone" class="cls-4" transform="translate(747.998 242.118) scale(0.556)">Handphone</text>
+    <rect class="cls-5" x="608" y="300" width="1244" height="143"/>
+    <rect id="Rectangle_672_copy_2" data-name="Rectangle 672 copy 2" class="cls-5" x="608" y="300" width="252" height="142.44"/>
+    <rect id="Rectangle_672_copy_3" data-name="Rectangle 672 copy 3" class="cls-5" x="860" y="300" width="299" height="142.44"/>
+    <rect id="Rectangle_672_copy_4" data-name="Rectangle 672 copy 4" class="cls-5" x="1159" y="300" width="128" height="142"/>
+    <rect id="Rectangle_672_copy_5" data-name="Rectangle 672 copy 5" class="cls-5" x="1413" y="300" width="137" height="142"/>
+    <rect id="Rectangle_672_copy_7" data-name="Rectangle 672 copy 7" class="cls-5" x="1550" y="300" width="137" height="142"/>
+    <rect id="Rectangle_672_copy" data-name="Rectangle 672 copy" class="cls-5" x="608" y="300" width="1244" height="63"/>
+    <text id="Nama" class="cls-4" transform="translate(734.671 342.342) scale(0.312)">Nama</text>
+    <text id="tipe" class="cls-4" transform="translate(1010.164 342.342) scale(0.312)">tipe</text>
+    <text id="Dashboard" class="cls-2" transform="translate(114.833 469.93) scale(0.365)">Dashboard</text>
+    <text id="merek" class="cls-4" transform="translate(1230.331 336.783) scale(0.286)">merek</text>
+    <text id="gambar" class="cls-4" transform="translate(1347.519 336.783) scale(0.286)">gambar</text>
+    <text id="jumlah" class="cls-4" transform="translate(1484.114 336.783) scale(0.286)">jumlah</text>
+    <text id="harga" class="cls-4" transform="translate(1621.108 336.783) scale(0.286)">harga</text>
+    <text id="opsi" class="cls-4" transform="translate(1772.395 336.783) scale(0.286)">opsi</text>
+    <text id="pembelian" class="cls-2" transform="translate(114.833 549.926) scale(0.365)">pembelian</text>
+    <text id="Service" class="cls-2" transform="translate(95.822 619.924) scale(0.365)">Service</text>
+    <rect class="cls-6" x="1772" y="385" width="65" height="41" rx="18" ry="18"/>
+    <text id="Edit" class="cls-2" transform="translate(1803.908 411.607) scale(0.206)">Edit</text>
+    <rect class="cls-7" x="1699.8" y="385" width="65" height="41" rx="18" ry="18"/>
+    <text id="Hapus" class="cls-2" transform="translate(1732.641 409.639) scale(0.176)">Hapus</text>
+    <rect class="cls-8" x="910" y="201" width="241" height="55" rx="27.5" ry="27.5"/>
+    <text id="Tambah" class="cls-2" transform="translate(1031.163 237.699) scale(0.315)">Tambah</text>
+    <text id="pergudangan" class="cls-2" transform="translate(139.072 690.166) scale(0.365)">pergudangan</text>
+    <text id="Handphone-2" data-name="Handphone" class="cls-2" transform="translate(144.13 761.196) scale(0.365)">Handphone</text>
+    <text id="Sparepart" class="cls-2" transform="translate(137.082 822.057) scale(0.365)">Sparepart</text>
+    <rect class="cls-9" x="567" width="1408" height="173"/>
+    <rect id="Rectangle_1_copy" data-name="Rectangle 1 copy" class="cls-10" x="-40" width="607" height="173"/>
+    <circle cx="84.5" cy="259.5" r="64.5"/>
+    <text id="test" class="cls-2" transform="translate(214.516 260.113) scale(0.467)">test</text>
+    <text id="Sisc" class="cls-11" transform="translate(448.266 127.434) scale(1.187)">Sisc</text>
+    <text id="Admin" class="cls-2" x="200.905" y="129.45">Admin</text>
+    <rect class="cls-5" x="-10" y="1803" width="1943" height="371"/>
+    <text id="Sisc-2" data-name="Sisc" class="cls-12" x="109.434" y="1923.342">Sisc</text>
+    <text id="Sinar_Indah_Cell" data-name="Sinar Indah Cell" class="cls-4" transform="translate(151.035 1972.155) scale(0.334)">Sinar Indah Cell</text>
+    <text id="_2019" data-name="2019" class="cls-4" transform="translate(70.049 2016.155) scale(0.334)">2019</text>
+    <g id="search">
+      <rect id="Rectangle_2_copy" data-name="Rectangle 2 copy" class="cls-13" x="1594.8" y="41.47" width="212" height="84" rx="16" ry="16"/>
+      <path class="cls-14" d="M684.2,41h964a0,0,0,0,1,0,0v84a0,0,0,0,1,0,0h-964a16,16,0,0,1-16-16V57A16,16,0,0,1,684.2,41Z"/>
+      <text id="cari" class="cls-2" transform="translate(1731.192 95.252) scale(0.366)">cari</text>
+    </g>
+  </g>
+</svg>

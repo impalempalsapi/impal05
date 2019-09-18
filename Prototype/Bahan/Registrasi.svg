@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="2160" viewBox="0 0 1920 2160">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #87dc87;
+      }
+
+      .cls-2, .cls-4, .cls-5, .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-4 {
+        stroke: #b7b7b7;
+        stroke-width: 5.71px;
+      }
+
+      .cls-3, .cls-5, .cls-6 {
+        font-size: 106px;
+        text-anchor: middle;
+      }
+
+      .cls-3, .cls-5 {
+        font-family: Vision;
+      }
+
+      .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-6 {
+        font-family: Nickainley;
+      }
+
+      .cls-7 {
+        fill: #5e5e5e;
+      }
+
+      .cls-8 {
+        fill: #fefefe;
+      }
+
+      .cls-9 {
+        fill: none;
+        stroke: #fff;
+        stroke-width: 6px;
+      }
+    </style>
+  </defs>
+  <g id="Registrasi">
+    <rect class="cls-1" x="-40" width="2015" height="173"/>
+    <g>
+      <rect class="cls-2" x="484" y="551" width="967" height="99" rx="10" ry="10"/>
+      <text id="Nama_Lengkap_:_" data-name="Nama Lengkap : *" class="cls-3" transform="translate(621.227 522.518) scale(0.386 0.394)">Nama Lengkap : *</text>
+      <rect class="cls-2" x="484" y="726.469" width="967" height="99" rx="10" ry="10"/>
+      <text id="Daerah_:_" data-name="Daerah : *" class="cls-3" transform="translate(558.016 707.321) scale(0.386 0.394)">Daerah : *</text>
+      <path class="cls-4" d="M6554,903.143h947a10,10,0,0,1,10,10v79a10,10,0,0,1-10,10H6554a10,10,0,0,1-10-10v-79A10,10,0,0,1,6554,903.143Z" transform="translate(-6060)"/>
+      <text id="Jenis_Kelamin_:_" data-name="Jenis Kelamin : *" class="cls-3" transform="translate(616.699 884.009) scale(0.386 0.394)">Jenis Kelamin : *</text>
+      <path class="cls-4" d="M6554,1075.86h947a10,10,0,0,1,10,10v79a10,10,0,0,1-10,10H6554a10,10,0,0,1-10-10v-79A10,10,0,0,1,6554,1075.86Z" transform="translate(-6060)"/>
+      <text id="Umur_:_" data-name="Umur : *" class="cls-3" transform="translate(547.801 1056.7) scale(0.386 0.394)">Umur : *</text>
+      <path class="cls-4" d="M6554,1246.11h947a10,10,0,0,1,10,10v79a10,10,0,0,1-10,10H6554a10,10,0,0,1-10-10v-79A10,10,0,0,1,6554,1246.11Z" transform="translate(-6060)"/>
+      <text id="Email_:_" data-name="Email : *" class="cls-3" transform="translate(547.801 1226.935) scale(0.386 0.394)">Email : *</text>
+      <path class="cls-4" d="M6554,1415.57h947a10,10,0,0,1,10,10v79a10,10,0,0,1-10,10H6554a10,10,0,0,1-10-10v-79A10,10,0,0,1,6554,1415.57Z" transform="translate(-6060)"/>
+      <text id="Password_:_" data-name="Password : *" class="cls-3" transform="translate(585.275 1396.415) scale(0.386 0.394)">Password : *</text>
+      <rect class="cls-2" x="484" y="1583.59" width="967" height="99" rx="10" ry="10"/>
+      <rect id="Rectangle_9_copy" data-name="Rectangle 9 copy" class="cls-1" x="484" y="1750" width="967" height="99" rx="10" ry="10"/>
+      <text id="Daftar" class="cls-5" transform="translate(958.436 1814.554) scale(0.41)">Daftar</text>
+      <text id="sudah_memiliki_akun_klik_disini" data-name="sudah memiliki akun? klik disini" class="cls-3" transform="translate(960.374 1994.634) scale(0.309)">sudah memiliki akun? klik disini</text>
+      <text id="Ulangi_Password_:_" data-name="Ulangi Password : *" class="cls-3" transform="translate(636.477 1564.401) scale(0.386 0.394)">Ulangi Password : *</text>
+      <text id="Registrasi-2" data-name="Registrasi" class="cls-3" x="448.058" y="425.602">Registrasi</text>
+    </g>
+    <text id="Sisc" class="cls-6" transform="translate(173.969 127.388) scale(1.187)">Sisc</text>
+    <g id="search">
+      <rect id="Rectangle_2_copy" data-name="Rectangle 2 copy" class="cls-7" x="1283.53" y="41.469" width="212" height="84" rx="16" ry="16"/>
+      <path class="cls-8" d="M373,41h964a0,0,0,0,1,0,0v84a0,0,0,0,1,0,0H373a16,16,0,0,1-16-16V57A16,16,0,0,1,373,41Z"/>
+      <text id="cari" class="cls-5" transform="translate(1419.948 95.249) scale(0.366)">cari</text>
+    </g>
+    <g id="logo">
+      <image id="user-128" x="1769" y="62" width="45" height="39" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAnCAYAAACbgcH8AAACH0lEQVRYhdWYMWsVQRSFP5/RoBYmBkE0NoJiEBshKHZqoSISwdafoL32FhYiYmsRsFKL2Ig2ISaNKFhYiJhKCCYRowhClJg8j1yYlbDwdPfedd/bA6+bM+fb+2Z2du4GSVSgrcAl4AIwAgykKX8CX4FZ4BFwD/gVjjPo4O+8pHkV06yk49HMaKXPAY8dvmPAS29oBHoI+Aj0ObxfgN1p+ZRWy0sMXHMCkx74sjfYW+nNwEIK9+pd2rSl5a30SBDYdADYVSf0Dqcvn73da2ycvNDtih7UtaG6CW1zrHmMXuhVp2+91rzzdBO6XffhsuL0rddq3dDfKljXBrzsMXqhF4ElpzfTUt2Vtio/d3ozzXiNkcPlbsAb8ke/p+eAvQ7fK2DUGxo9xm84fdcjodFK96UNNVBgbKb3wL5IaLTSdqpdLem5EswMVzrTC+BogXETwMVoWFXQB4HXQP9fxlgrYX+6H4bkveORLqZ2Gz+VoP+11LYAz4C3wBTwBPjgSnb0HU5LeiDpR8FeRyetSHoo6UxZhjKDxyRNB0E7aTrNXxn0SUlT/wk2r0lJJyLQR9Lf1w3dT/mFoQ9JGu8SbF7jiacjtL3+bvYIbF63JLXyDcg9wFPgsOsVVI/eAGftNWnQ21KLariHgTPN25lgB8LthgCTVsQdq/QnYGcPABXVZ6v092aw/tFyq8IWV11qG/Rgw6AH7SvP7nmbGlLxjcDcb5uBzRVEr1NLAAAAAElFTkSuQmCC"/>
+      <circle class="cls-9" cx="1792.28" cy="82.469" r="41"/>
+    </g>
+    <g id="logo2">
+      <image id="cart-73-128" x="1624" y="62" width="49" height="43" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAADEAAAArCAYAAADR0WDhAAAC6ElEQVRogdWZT4hNURzHP29mGozFWCmszGgiSnaSkmJF+bOzsGIj2VlYCGVjKUUpZcafSPnXKNlRxrznJSFTwvM/Uv4MhRFz9Kvffd15c++5597jzb3vU7fOfeee3/l93znnd/6VjDFLgbXAHeAu8IcWowPYDOwDfgP3gdtAFRgC3raCHGmJEWBRRN5fYBhYA4zl4JszbcAVYCSiQDuwElhfUN/rSEsE6YXAMmA1sAGYrb+LyE35umknLCLMCh0T6FiZViy3JxInQngC9Gl6AChrF4tiXJ+SJT+2IqWk34yn8F/+3FGbiL3AwRQG8+KTTcR8oNYCIo61WTJf6JxRdIZsIoT+FhBRsXUnoRv4CHROnU+peA4sSGqJUWCwYI6HqaAzdhIDRfA2Bgn7TiKuSxjLw0MHnEXI0vx83t5G8Bl4iKMI4fRUeudINVhdu4qoFHDiGw4SriKEU83xJTN1EUnzRJgejctFQLrRHOALKVuiFlafMw8CAWlFUKAuVQ6/pBVxQffeeTOhR6QVIbH5WgFEVMIvaUVQgGXIU90m1MkiYlAXhnlRbqw3i4i8lyGTImQWEeQcpSqNP6SZ7Bp5BvT+T+8ckOOjrsYI2eFh8AywX9Ov9XSkPXQ80xiK0x7HNNKp9UwK8T4t0autgQ70WR4OepF1TKDrqCBSyF58dyuKEE6G0ls9bWXGpzuhLfAOmKnv54CXwC3gRgZ7c/XwWi5+PuicVE0sJSI8nxMmmksp7a4zxnyLsHQ4qayvgOnGmHsxIoSjjnYWW2wIO2zlfbvTLuBIwjc1Da+2E/N5wAyLja/a1X5GZfrME8Iqh296POtAw/eSuPHhG53i7iuaQayvvi1xE9iY8I3czr7RuqJm7F/AHmCLxcZ34FFsrufA7jLGvLcMyAOOdrqNMWMWOzubGZ3k6TPGPI6o+HhKO8uNMa8i7BxKKusbnQLk+GS73r7KfuMqcDaDHVmPbdOb3B/AReCytQTwD6VIIIM6HGqxAAAAAElFTkSuQmCC"/>
+      <circle id="Ellipse_1_copy" data-name="Ellipse 1 copy" class="cls-9" cx="1650.72" cy="82" r="41"/>
+    </g>
+  </g>
+</svg>

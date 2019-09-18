@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="2160" viewBox="0 0 1920 2160">
+  <defs>
+    <style>
+      .cls-1, .cls-11, .cls-6, .cls-8 {
+        fill: #fff;
+      }
+
+      .cls-1 {
+        stroke: #a2a2a2;
+        stroke-width: 3px;
+      }
+
+      .cls-11, .cls-2, .cls-3, .cls-5, .cls-7, .cls-8 {
+        font-size: 106px;
+        text-anchor: middle;
+      }
+
+      .cls-2, .cls-4, .cls-5 {
+        fill: #87dc87;
+      }
+
+      .cls-11, .cls-2 {
+        font-family: Nickainley;
+      }
+
+      .cls-3, .cls-5, .cls-7, .cls-8, .cls-9 {
+        font-family: Vision;
+      }
+
+      .cls-6 {
+        stroke: #b7b7b7;
+        stroke-width: 5.71px;
+      }
+
+      .cls-7 {
+        opacity: 0.4;
+      }
+
+      .cls-9 {
+        font-size: 90px;
+      }
+
+      .cls-10 {
+        fill: #32b132;
+      }
+
+      .cls-12 {
+        fill: #5e5e5e;
+      }
+
+      .cls-13 {
+        fill: #fefefe;
+      }
+
+      .cls-14 {
+        fill: none;
+        stroke: #fff;
+        stroke-width: 6px;
+      }
+    </style>
+  </defs>
+  <g id="login">
+    <rect class="cls-1" x="-10" y="1803" width="1943" height="371"/>
+    <text id="Sisc" class="cls-2" x="109.446" y="1923.344">Sisc</text>
+    <text id="Sinar_Indah_Cell" data-name="Sinar Indah Cell" class="cls-3" transform="translate(151.047 1972.157) scale(0.334)">Sinar Indah Cell</text>
+    <text id="_2019" data-name="2019" class="cls-3" transform="translate(70.033 2016.156) scale(0.334)">2019</text>
+    <rect class="cls-4" x="-40" width="2015" height="173"/>
+    <g id="boxboxbox">
+      <g id="boxbox">
+        <text id="Lupa_Password" data-name="Lupa Password" class="cls-5" transform="translate(793.931 939.349) scale(0.379)">Lupa Password</text>
+        <text id="Pelanggan_Terdaftar" data-name="Pelanggan Terdaftar" class="cls-3" transform="translate(417.874 541.667) scale(0.483)">Pelanggan Terdaftar</text>
+        <g id="box">
+          <rect class="cls-6" x="199.94" y="620.84" width="718" height="97" rx="9" ry="9"/>
+          <text id="Email" class="cls-7" transform="translate(291.167 681.466) scale(0.435)">Email</text>
+        </g>
+        <g id="box-2" data-name="box">
+          <rect class="cls-6" x="199.94" y="763.84" width="718" height="97" rx="9" ry="9"/>
+          <text id="Password" class="cls-7" transform="translate(324.243 827.469) scale(0.435)">Password</text>
+        </g>
+        <rect id="Rectangle_8_copy" data-name="Rectangle 8 copy" class="cls-4" x="199.94" y="962.5" width="718" height="97" rx="9" ry="9"/>
+        <text id="Masuk" class="cls-8" transform="translate(558.618 1027.07) scale(0.437)">Masuk</text>
+        <text id="_Silahkan_masukan_user_dan_password_jika_sudah_memiliki_akun" data-name="*Silahkan masukan user dan password jika sudah memiliki akun" class="cls-9" transform="translate(197.678 588.212) scale(0.279)">*Silahkan masukan user dan password jika sudah memiliki akun</text>
+        <text id="_Jika_masih_belum_memiliki_akun_silahkan_menekan_tombol_diibawa" data-name="*Jika masih belum memiliki akun silahkan menekan tombol diibawa" class="cls-9" transform="translate(1006.369 588.212) scale(0.279)">*Jika masih belum memiliki akun silahkan menekan tombol diibawah<tspan dy="108">dan isi sesuai dengan yang telah ditentukan.</tspan></text>
+      </g>
+      <g id="boxbox-2" data-name="boxbox">
+        <text id="Pelanggan_Baru" data-name="Pelanggan Baru" class="cls-3" transform="translate(1171.779 541.667) scale(0.483)">Pelanggan Baru</text>
+        <rect id="Rectangle_8_copy-2" data-name="Rectangle 8 copy" class="cls-10" x="1002" y="962.66" width="718" height="97" rx="9" ry="9"/>
+        <text id="Registrasi" class="cls-8" transform="translate(1360.688 1027.22) scale(0.437)">Registrasi</text>
+        <text id="Login_Pelanggan" data-name="Login Pelanggan" class="cls-3" x="557.112" y="425.599">Login Pelanggan</text>
+      </g>
+    </g>
+    <text id="Sisc-2" data-name="Sisc" class="cls-11" transform="translate(173.979 127.389) scale(1.187)">Sisc</text>
+    <g id="search">
+      <rect id="Rectangle_2_copy" data-name="Rectangle 2 copy" class="cls-12" x="1283.53" y="41.47" width="212" height="84" rx="16" ry="16"/>
+      <path class="cls-13" d="M373,41h964a0,0,0,0,1,0,0v84a0,0,0,0,1,0,0H373a16,16,0,0,1-16-16V57A16,16,0,0,1,373,41Z"/>
+      <text id="cari" class="cls-8" transform="translate(1419.964 95.248) scale(0.366)">cari</text>
+    </g>
+    <g id="logo">
+      <image id="user-128" x="1769" y="62" width="45" height="39" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAnCAYAAACbgcH8AAACH0lEQVRYhdWYMWsVQRSFP5/RoBYmBkE0NoJiEBshKHZqoSISwdafoL32FhYiYmsRsFKL2Ig2ISaNKFhYiJhKCCYRowhClJg8j1yYlbDwdPfedd/bA6+bM+fb+2Z2du4GSVSgrcAl4AIwAgykKX8CX4FZ4BFwD/gVjjPo4O+8pHkV06yk49HMaKXPAY8dvmPAS29oBHoI+Aj0ObxfgN1p+ZRWy0sMXHMCkx74sjfYW+nNwEIK9+pd2rSl5a30SBDYdADYVSf0Dqcvn73da2ycvNDtih7UtaG6CW1zrHmMXuhVp2+91rzzdBO6XffhsuL0rddq3dDfKljXBrzsMXqhF4ElpzfTUt2Vtio/d3ozzXiNkcPlbsAb8ke/p+eAvQ7fK2DUGxo9xm84fdcjodFK96UNNVBgbKb3wL5IaLTSdqpdLem5EswMVzrTC+BogXETwMVoWFXQB4HXQP9fxlgrYX+6H4bkveORLqZ2Gz+VoP+11LYAz4C3wBTwBPjgSnb0HU5LeiDpR8FeRyetSHoo6UxZhjKDxyRNB0E7aTrNXxn0SUlT/wk2r0lJJyLQR9Lf1w3dT/mFoQ9JGu8SbF7jiacjtL3+bvYIbF63JLXyDcg9wFPgsOsVVI/eAGftNWnQ21KLariHgTPN25lgB8LthgCTVsQdq/QnYGcPABXVZ6v092aw/tFyq8IWV11qG/Rgw6AH7SvP7nmbGlLxjcDcb5uBzRVEr1NLAAAAAElFTkSuQmCC"/>
+      <circle class="cls-14" cx="1792.28" cy="82.47" r="41"/>
+    </g>
+    <g id="logo2">
+      <image id="cart-73-128" x="1624" y="62" width="49" height="43" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAADEAAAArCAYAAADR0WDhAAAC6ElEQVRogdWZT4hNURzHP29mGozFWCmszGgiSnaSkmJF+bOzsGIj2VlYCGVjKUUpZcafSPnXKNlRxrznJSFTwvM/Uv4MhRFz9Kvffd15c++5597jzb3vU7fOfeee3/l93znnd/6VjDFLgbXAHeAu8IcWowPYDOwDfgP3gdtAFRgC3raCHGmJEWBRRN5fYBhYA4zl4JszbcAVYCSiQDuwElhfUN/rSEsE6YXAMmA1sAGYrb+LyE35umknLCLMCh0T6FiZViy3JxInQngC9Gl6AChrF4tiXJ+SJT+2IqWk34yn8F/+3FGbiL3AwRQG8+KTTcR8oNYCIo61WTJf6JxRdIZsIoT+FhBRsXUnoRv4CHROnU+peA4sSGqJUWCwYI6HqaAzdhIDRfA2Bgn7TiKuSxjLw0MHnEXI0vx83t5G8Bl4iKMI4fRUeudINVhdu4qoFHDiGw4SriKEU83xJTN1EUnzRJgejctFQLrRHOALKVuiFlafMw8CAWlFUKAuVQ6/pBVxQffeeTOhR6QVIbH5WgFEVMIvaUVQgGXIU90m1MkiYlAXhnlRbqw3i4i8lyGTImQWEeQcpSqNP6SZ7Bp5BvT+T+8ckOOjrsYI2eFh8AywX9Ov9XSkPXQ80xiK0x7HNNKp9UwK8T4t0autgQ70WR4OepF1TKDrqCBSyF58dyuKEE6G0ls9bWXGpzuhLfAOmKnv54CXwC3gRgZ7c/XwWi5+PuicVE0sJSI8nxMmmksp7a4zxnyLsHQ4qayvgOnGmHsxIoSjjnYWW2wIO2zlfbvTLuBIwjc1Da+2E/N5wAyLja/a1X5GZfrME8Iqh296POtAw/eSuPHhG53i7iuaQayvvi1xE9iY8I3czr7RuqJm7F/AHmCLxcZ34FFsrufA7jLGvLcMyAOOdrqNMWMWOzubGZ3k6TPGPI6o+HhKO8uNMa8i7BxKKusbnQLk+GS73r7KfuMqcDaDHVmPbdOb3B/AReCytQTwD6VIIIM6HGqxAAAAAElFTkSuQmCC"/>
+      <circle id="Ellipse_1_copy" data-name="Ellipse 1 copy" class="cls-14" cx="1650.72" cy="82" r="41"/>
+    </g>
+  </g>
+</svg>
